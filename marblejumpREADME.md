@@ -1,1 +1,1 @@
-my repository for ALL projects for the Hack Club YSWS scraps. *REVIEWERS*: check the project notes on scraps website for the correct file name
+A cool little marble run with a BIG jump leading into a plinko-style finish. Made entirely in Onshape, using many of the included tools like Sweep, Sketch, Extrude, and many more. Just put the marble in the top and let it roll down! print with any filament of your choosing (maybe not chocolate tho) using the downloadable STEP file. Then import that into a slicer like Bambu Studio and print!!!!!
