@@ -1,1 +1,13 @@
-A cool little marble run with a BIG jump leading into a plinko-style finish. Made entirely in Onshape, using many of the included tools like Sweep, Sketch, Extrude, and many more. Just put the marble in the top and let it roll down! print with any filament of your choosing (maybe not chocolate tho) using the downloadable STEP file. Then import that into a slicer like Bambu Studio and print!!!!!
+WHAT:
+A cool little marble run with a BIG jump leading into a plinko-style finish.
+
+HOW:
+Made entirely in Onshape, using many of the included tools like Sweep, Sketch, Extrude, and many more.
+
+
+INSTRUCTIONS:
+Just put the marble in the top and let it roll down!
+
+
+HOW TO USE:
+Print with any filament of your choosing (maybe not chocolate tho) using the downloadable STEP file. Then import that into a slicer like Bambu Studio and print!!!!!
